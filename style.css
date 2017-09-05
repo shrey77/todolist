@@ -1,0 +1,55 @@
+body {
+	background-color: #e6f0ff;
+}
+
+.title {
+	text-align: center;
+	font-family: 'Noto Serif', serif;
+	font-size: 56px;
+	margin-bottom: 0px;
+}
+
+.name {
+	text-align: center;
+	font-family: 'Noto Serif', serif;
+	font-size: 36px;
+}
+
+table {
+	border: 1px solid black;
+	border-collapse: collapse;
+	width: 80%;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: auto;
+	margin-right: auto;	
+}
+
+table, th, td {
+    border: 1px solid black;
+	color: black;
+	text-align: center;
+}
+
+.dateSize {
+	width: 10%;
+}
+
+tr:nth-of-type(even) {
+    background-color: #F0F8FF;
+}
+
+thead {
+	background-color: #80b3ff;
+}
+
+#delete {
+	margin-left: 48%;
+}
+
+.inputForm {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
